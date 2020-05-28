@@ -5,10 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/ExampleScene.unity
-    guid: 12dd7bb27c47ea1458c8d4ecd98af2cc
+    path: Assets/PolygonBattleRoyale/Scenes/battleground.unity
+    guid: e693fb2e51fa599488a7f68ac51c5c88
   - enabled: 1
-    path: Assets/newScene.unity
-    guid: ae827b0911ccdd146ac15e245084bd91
+    path: Assets/PolygonCity/Scenes/City Scene.unity
+    guid: 35299a6a99d6dfe4bb709527ba95aab0
   m_configObjects: {}
